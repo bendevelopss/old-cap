@@ -1,0 +1,3 @@
+Error performing query '<strong>INSERT INTO `category` (`category_no`, `category_name`, `status`) VALUES
+(23, 'wood', 'Active');
+': Duplicate entry '23' for key 'PRIMARY'

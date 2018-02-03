@@ -571,7 +571,7 @@ else{
 
     <script>
     function print() {
-    window.open("pdf/tutorial/tuto12.php?pullout_no=<?php echo $_GET['id']?>&id=<?php echo $_GET['scname']?>&prepared=<?php echo $_GET['prepared']?>");
+    window.open("../../pdf/print/printpullout.php?pullout_no=<?php echo $_GET['id']?>&id=<?php echo $_GET['scname']?>&prepared=<?php echo $_GET['prepared']?>");
     }
     </script>
 </form>
